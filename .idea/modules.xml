@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WackAMole/WackAMole.iml" filepath="$PROJECT_DIR$/WackAMole/WackAMole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WackAMole-ReMJ.iml" filepath="$PROJECT_DIR$/.idea/WackAMole-ReMJ.iml" />
+    </modules>
+  </component>
+</project>
